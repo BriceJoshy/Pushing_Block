@@ -1,0 +1,2 @@
+*.data filter=lfs diff=lfs merge=lfs -text
+push_force.data filter=lfs diff=lfs merge=lfs -text
